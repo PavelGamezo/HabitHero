@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0BD7EE6A-5DC9-4ECF-AA85-AFBE8DDF1140}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{7D775635-CF77-410F-B88D-4B770EB7BF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{41045E72-69AC-4D7D-9812-88A95FE4357F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitHero.Api", "src\Presentation\HabitHero.Api\HabitHero.Api.csproj", "{0E90EB16-6E79-4056-8093-10DEA77FA90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitHero.Domain", "src\Core\HabitHero.Domain\HabitHero.Domain.csproj", "{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitHero.Application", "src\Core\HabitHero.Application\HabitHero.Application.csproj", "{ABF2F029-830F-48E4-AB6D-E3695259D04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HabitHero.Infrastructure", "src\Infrastructure\HabitHero.Infrastructure\HabitHero.Infrastructure.csproj", "{A5A968DA-6955-406A-B662-9643BDE640C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E90EB16-6E79-4056-8093-10DEA77FA90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E90EB16-6E79-4056-8093-10DEA77FA90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E90EB16-6E79-4056-8093-10DEA77FA90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E90EB16-6E79-4056-8093-10DEA77FA90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF2F029-830F-48E4-AB6D-E3695259D04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF2F029-830F-48E4-AB6D-E3695259D04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF2F029-830F-48E4-AB6D-E3695259D04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF2F029-830F-48E4-AB6D-E3695259D04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A968DA-6955-406A-B662-9643BDE640C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A968DA-6955-406A-B662-9643BDE640C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A968DA-6955-406A-B662-9643BDE640C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A968DA-6955-406A-B662-9643BDE640C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BD7EE6A-5DC9-4ECF-AA85-AFBE8DDF1140} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7D775635-CF77-410F-B88D-4B770EB7BF2D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{41045E72-69AC-4D7D-9812-88A95FE4357F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{0E90EB16-6E79-4056-8093-10DEA77FA90C} = {41045E72-69AC-4D7D-9812-88A95FE4357F}
+		{0E02ACF7-D4BE-40A5-9485-CB5E1A096857} = {0BD7EE6A-5DC9-4ECF-AA85-AFBE8DDF1140}
+		{ABF2F029-830F-48E4-AB6D-E3695259D04D} = {0BD7EE6A-5DC9-4ECF-AA85-AFBE8DDF1140}
+		{A5A968DA-6955-406A-B662-9643BDE640C5} = {7D775635-CF77-410F-B88D-4B770EB7BF2D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CA3BF0-4B24-4E32-8BCF-484C50DFCBB0}
+	EndGlobalSection
+EndGlobal
