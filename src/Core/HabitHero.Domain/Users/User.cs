@@ -1,5 +1,7 @@
 ﻿using HabitHero.Domain.Common;
 using HabitHero.Domain.Habits;
+using HabitHero.Domain.Users.Events;
+using HabitHero.Domain.Users.ValueObjects;
 
 namespace HabitHero.Domain.Users
 {
@@ -22,7 +24,11 @@ namespace HabitHero.Domain.Users
             Level = level;
             Experience = experience;
             StreakCount = streakCount;
+
+            AddDomainEvent(new UserCreatedDomainEvent(Id));
         }
+
+        private User(Guid id) : base(id) { }
 
         public string Username { get; private set; }
 
@@ -30,11 +36,11 @@ namespace HabitHero.Domain.Users
 
         public string PasswordHash { get; private set; }
 
-        public int Level { get; private set; }
+        public Level Level { get; private set; }
 
-        public int Experience { get; private set; }
+        public Experience Experience { get; private set; }
 
-        public int StreakCount { get; private set; }
+        public StreakCount StreakCount { get; private set; }
 
         public IReadOnlyCollection<Habit> Habits => _habits.AsReadOnly();
     }
