@@ -1,15 +1,17 @@
+using HabitHero.Api;
+using HabitHero.Application;
 using HabitHero.Infrastructure;
 using Scalar.AspNetCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
-
-builder.Services.AddInfrastructure(builder.Configuration);
-
-builder.Services.AddOpenApi();
+builder.Services
+    .AddPresentation()
+    .AddInfrastructure(builder.Configuration)
+    .AddApplication();
 
 var app = builder.Build();
 

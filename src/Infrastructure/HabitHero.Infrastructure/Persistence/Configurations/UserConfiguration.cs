@@ -14,29 +14,32 @@ namespace HabitHero.Infrastructure.Persistence.Configurations
 
             builder.HasKey(x => x.Id);
 
-            builder.OwnsOne(user => user.Email, ownedType =>
-            {
-                ownedType.Property(email => email.Value)
-                    .HasColumnName("Email");
-            });
+            var emailConverter = new ValueConverter<Email, string>(
+                email => email.Value,
+                email => Email.Create(email).Value);
 
-            builder.OwnsOne(user => user.Experience, ownedType =>
-            {
-                ownedType.Property(experience => experience.Value)
-                    .HasColumnName("Experience");
-            });
+            var levelConverter = new ValueConverter<Level, int>(
+                level => level.Value,
+                level => Level.Create(level).Value);
 
-            builder.OwnsOne(user => user.Level, ownedType =>
-            {
-                ownedType.Property(level => level.Value)
-                    .HasColumnName("Level");
-            });
+            var experienceConverter = new ValueConverter<Experience, int>(
+                experience => experience.Value,
+                experience => Experience.Create(experience).Value);
 
-            builder.OwnsOne(user => user.StreakCount, ownedType =>
-            {
-                ownedType.Property(streakCount => streakCount.Value)
-                    .HasColumnName("StreakCount");
-            });
+            var streakCount = new ValueConverter<StreakCount, int>(
+                streakCount => streakCount.Value,
+                streakCount => StreakCount.Create(streakCount).Value);
+
+            builder.Property(user => user.Email)
+                   .HasConversion(emailConverter);
+
+            builder.Property(user => user.Level)
+                .HasConversion(levelConverter);
+            builder.Property(user => user.Experience)
+                .HasConversion(experienceConverter);
+
+            builder.Property(user => user.StreakCount)
+                .HasConversion(streakCount);
 
             builder.HasMany(user => user.Habits)
                 .WithOne(habit => habit.User);

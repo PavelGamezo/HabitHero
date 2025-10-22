@@ -1,6 +1,7 @@
 ﻿using HabitHero.Application.Common.Factories;
 using HabitHero.Domain.Common.Factory;
 using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
 
 namespace HabitHero.Application
 {
@@ -8,7 +9,11 @@ namespace HabitHero.Application
     {
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
-            services.AddSingleton<IUserFactory, UserFactory>();
+            services.AddScoped<IUserFactory, UserFactory>();
+            services.AddMediatR(configuration =>
+            {
+                configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
+            });
 
             return services;
         }

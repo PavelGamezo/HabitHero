@@ -1,5 +1,7 @@
-﻿using HabitHero.Infrastructure.Common.Options;
+﻿using HabitHero.Application.Common.Persistence;
+using HabitHero.Infrastructure.Common.Options;
 using HabitHero.Infrastructure.Persistence.Contexts;
+using HabitHero.Infrastructure.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,6 +18,7 @@ namespace HabitHero.Infrastructure.Persistence
             var connectionString = new ConnectionString();
             configuration.Bind(ConnectionString.SectionName, connectionString);
 
+            // Add Options:
             services.AddSingleton(Options.Create(connectionString));
 
             // Add DbContext:
@@ -23,6 +26,9 @@ namespace HabitHero.Infrastructure.Persistence
             {
                 options.UseNpgsql(connectionString.Value);
             });
+
+            // Add Repositories:
+            services.AddScoped<IUserRepository, UserRepository>();
 
             return services;
         }
