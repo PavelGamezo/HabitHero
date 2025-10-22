@@ -14,6 +14,12 @@ namespace HabitHero.Infrastructure.Persistence.Configurations
 
             builder.HasKey(x => x.Id);
 
+            builder.OwnsOne(user => user.Email, ownedType =>
+            {
+                ownedType.Property(email => email.Value)
+                    .HasColumnName("Email");
+            });
+
             builder.OwnsOne(user => user.Experience, ownedType =>
             {
                 ownedType.Property(experience => experience.Value)

@@ -17,10 +17,15 @@ namespace HabitHero.Domain.Users.ValueObjects
         {
             if (value < 0)
             {
-                return UserDomainErrors.IncorrectStreakCountValue;
+                return UserDomainErrors.IncorrectStreakCountValueError;
             }
 
             return new StreakCount(value);
+        }
+
+        public static StreakCount CreateDefaultValue()
+        {
+            return new StreakCount(0);
         }
 
         public static implicit operator StreakCount(int value) 

@@ -17,10 +17,15 @@ namespace HabitHero.Domain.Users.ValueObjects
         {
             if (value < 0)
             {
-                return UserDomainErrors.IncorrectLevelValue;
+                return UserDomainErrors.IncorrectLevelValueError;
             }
 
             return new Level(value);
+        }
+
+        public static Level CreateDefaultValue()
+        {
+            return new Level(0);
         }
 
         public static implicit operator int(Level level)

@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace HabitHero.Infrastructure.Migrations
 {
     [DbContext(typeof(HabitHeroDbContext))]
-    [Migration("20251020104754_Initial_Migration")]
+    [Migration("20251020111740_Initial_Migration")]
     partial class Initial_Migration
     {
         /// <inheritdoc />
@@ -47,16 +47,9 @@ namespace HabitHero.Infrastructure.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("text");
-
                     b.Property<string>("PasswordHash")
                         .IsRequired()
                         .HasColumnType("text");
-
-                    b.Property<int>("StreakCount")
-                        .HasColumnType("integer");
 
                     b.Property<string>("Username")
                         .IsRequired()
@@ -80,6 +73,24 @@ namespace HabitHero.Infrastructure.Migrations
 
             modelBuilder.Entity("HabitHero.Domain.Users.User", b =>
                 {
+                    b.OwnsOne("HabitHero.Domain.Users.ValueObjects.Email", "Email", b1 =>
+                        {
+                            b1.Property<Guid>("UserId")
+                                .HasColumnType("uuid");
+
+                            b1.Property<string>("Value")
+                                .IsRequired()
+                                .HasColumnType("text")
+                                .HasColumnName("Email");
+
+                            b1.HasKey("UserId");
+
+                            b1.ToTable("Users");
+
+                            b1.WithOwner()
+                                .HasForeignKey("UserId");
+                        });
+
                     b.OwnsOne("HabitHero.Domain.Users.ValueObjects.Experience", "Experience", b1 =>
                         {
                             b1.Property<Guid>("UserId")
@@ -114,10 +125,33 @@ namespace HabitHero.Infrastructure.Migrations
                                 .HasForeignKey("UserId");
                         });
 
+                    b.OwnsOne("HabitHero.Domain.Users.ValueObjects.StreakCount", "StreakCount", b1 =>
+                        {
+                            b1.Property<Guid>("UserId")
+                                .HasColumnType("uuid");
+
+                            b1.Property<int>("Value")
+                                .HasColumnType("integer")
+                                .HasColumnName("StreakCount");
+
+                            b1.HasKey("UserId");
+
+                            b1.ToTable("Users");
+
+                            b1.WithOwner()
+                                .HasForeignKey("UserId");
+                        });
+
+                    b.Navigation("Email")
+                        .IsRequired();
+
                     b.Navigation("Experience")
                         .IsRequired();
 
                     b.Navigation("Level")
+                        .IsRequired();
+
+                    b.Navigation("StreakCount")
                         .IsRequired();
                 });
 

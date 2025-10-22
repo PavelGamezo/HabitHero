@@ -17,10 +17,15 @@ namespace HabitHero.Domain.Users.ValueObjects
         {
             if (value < 0 && value > 100)
             {
-                return UserDomainErrors.IncorrectExperienceValue;
+                return UserDomainErrors.IncorrectExperienceValueError;
             }
 
             return new Experience(value);
+        }
+
+        public static Experience CreateDefaultValue()
+        {
+            return new Experience(0);
         }
 
         public void UpgradeExperience() 

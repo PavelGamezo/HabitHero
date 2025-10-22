@@ -8,7 +8,7 @@ namespace HabitHero.Domain.Users
     public class User : AggregateRoot<Guid>
     {
         private readonly List<Habit> _habits = new();
-
+        
         public User(
             Guid id,
             string username,
@@ -32,7 +32,7 @@ namespace HabitHero.Domain.Users
 
         public string Username { get; private set; }
 
-        public string Email { get; private set; }
+        public Email Email { get; private set; }
 
         public string PasswordHash { get; private set; }
 
