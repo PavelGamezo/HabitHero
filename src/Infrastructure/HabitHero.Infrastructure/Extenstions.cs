@@ -57,6 +57,8 @@ namespace HabitHero.Infrastructure
                     };
                 });
 
+            services.AddAuthentication();
+
             return services;
         }
     }

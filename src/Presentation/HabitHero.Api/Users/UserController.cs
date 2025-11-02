@@ -1,4 +1,8 @@
-﻿using HabitHero.Application.Users.Commands.RegisterUser;
+﻿using HabitHero.Api.Common.Attributes;
+using HabitHero.Api.Common.Errors;
+using HabitHero.Api.Users.DTOs;
+using HabitHero.Application.Common.Authorization;
+using HabitHero.Application.Users.Commands.RegisterUser;
 using HabitHero.Application.Users.Queries.LoginUser;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +11,7 @@ namespace HabitHero.Api.Users
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController : ControllerBase
+    public class UserController : ApiController
     {
         private readonly ISender _sender;
 
@@ -25,12 +29,9 @@ namespace HabitHero.Api.Users
                 request.Email,
                 request.Password));
 
-            if (result.IsError)
-            {
-                return BadRequest(result.Errors);
-            }
-
-            return Ok(result);
+            return result.Match(
+                success => Ok(success),
+                errors => Problem(errors));
         }
 
         [HttpGet]
@@ -41,12 +42,17 @@ namespace HabitHero.Api.Users
                 request.Email,
                 request.Password));
 
-            if (result.IsError)
-            {
-                return BadRequest(result.Errors);
-            }
+            return result.Match(
+                success => Ok(success),
+                errors => Problem(errors));
+        }
 
-            return Ok(result);
+        [HasPermission(Permissions.ResetUserProgress)]
+        [HttpGet]
+        [Route("Test")]
+        public IActionResult GetTest()
+        {
+            return Ok();
         }
     }
 }

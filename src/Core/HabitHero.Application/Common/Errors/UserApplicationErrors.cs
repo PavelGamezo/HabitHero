@@ -6,14 +6,14 @@ namespace HabitHero.Application.Common.Errors
     {
         public static Error UserExistError = Error.Conflict(
             code: "Application.Common.Errors",
-            description: "User has already exist");
+            description: "User has already exist.");
 
         public static Error NotFoundUserError = Error.NotFound(
             code: "Application.Common.Errors",
-            description: "User is not exist");
+            description: "User is not exist.");
 
         public static Error InvalidUserPasswordError = Error.Conflict(
             code: "Application.Common.Errors",
-            description: "User has already exist");
+            description: "Incorrect password or email.");
     }
 }

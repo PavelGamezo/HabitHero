@@ -31,7 +31,7 @@ namespace HabitHero.Application.Users.Queries.LoginUser
                 return Common.Errors.UserApplicationErrors.NotFoundUserError;
             }
 
-            if (!_passwordHasher.Verify(user.PasswordHash, password))
+            if (_passwordHasher.Verify(user.PasswordHash, password))
             {
                 return Common.Errors.UserApplicationErrors.InvalidUserPasswordError;
             }
