@@ -1,4 +1,5 @@
 ﻿using HabitHero.Domain.Users;
+using HabitHero.Domain.Users.Entities;
 using HabitHero.Domain.Users.ValueObjects;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
@@ -35,6 +36,7 @@ namespace HabitHero.Infrastructure.Persistence.Configurations
 
             builder.Property(user => user.Level)
                 .HasConversion(levelConverter);
+            
             builder.Property(user => user.Experience)
                 .HasConversion(experienceConverter);
 
@@ -43,6 +45,12 @@ namespace HabitHero.Infrastructure.Persistence.Configurations
 
             builder.HasMany(user => user.Habits)
                 .WithOne(habit => habit.User);
+
+            builder.HasMany(user => user.Roles)
+                .WithMany(role => role.Users)
+                .UsingEntity<UserRole>(
+                    r => r.HasOne<Role>().WithMany().HasForeignKey(ur => ur.RoleId),
+                    l => l.HasOne<User>().WithMany().HasForeignKey(ur => ur.UserId));
         }
     }
 }

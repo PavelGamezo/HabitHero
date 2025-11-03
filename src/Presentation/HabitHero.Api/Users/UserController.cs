@@ -1,9 +1,9 @@
 ﻿using HabitHero.Api.Common.Attributes;
 using HabitHero.Api.Common.Errors;
 using HabitHero.Api.Users.DTOs;
-using HabitHero.Application.Common.Authorization;
 using HabitHero.Application.Users.Commands.RegisterUser;
 using HabitHero.Application.Users.Queries.LoginUser;
+using HabitHero.Domain.Users.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -47,7 +47,7 @@ namespace HabitHero.Api.Users
                 errors => Problem(errors));
         }
 
-        [HasPermission(Permissions.ResetUserProgress)]
+        [HasPermission(PermissionsEnum.ResetUserProgress)]
         [HttpGet]
         [Route("Test")]
         public IActionResult GetTest()

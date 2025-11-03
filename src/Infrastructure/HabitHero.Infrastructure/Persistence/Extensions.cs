@@ -20,6 +20,7 @@ namespace HabitHero.Infrastructure.Persistence
 
             // Add Options:
             services.AddSingleton(Options.Create(connectionString));
+            services.Configure<AuthorizationOptions>(configuration.GetSection(AuthorizationOptions.SectionName));
 
             // Add DbContext:
             services.AddDbContext<HabitHeroDbContext>(options =>

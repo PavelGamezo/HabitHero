@@ -1,14 +1,13 @@
 ﻿using HabitHero.Domain.Common;
 using HabitHero.Domain.Habits;
+using HabitHero.Domain.Users.Entities;
 using HabitHero.Domain.Users.Events;
 using HabitHero.Domain.Users.ValueObjects;
 
 namespace HabitHero.Domain.Users
 {
     public class User : AggregateRoot<Guid>
-    {
-        private readonly List<Habit> _habits = new();
-        
+    {   
         public User(
             Guid id,
             string username,
@@ -42,6 +41,12 @@ namespace HabitHero.Domain.Users
 
         public StreakCount StreakCount { get; private set; }
 
+        private readonly List<Habit> _habits = new();
+
         public IReadOnlyCollection<Habit> Habits => _habits.AsReadOnly();
+
+        private readonly List<Role> _roles = new();
+
+        public IReadOnlyCollection<Role> Roles => _roles.AsReadOnly();
     }
 }

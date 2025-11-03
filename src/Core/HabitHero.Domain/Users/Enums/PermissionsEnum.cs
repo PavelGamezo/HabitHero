@@ -1,8 +1,8 @@
-﻿namespace HabitHero.Application.Common.Authorization
+﻿namespace HabitHero.Domain.Users.Enums
 {
-    public enum Permissions
+    public enum PermissionsEnum
     {
-        ViewProfile,
+        ViewProfile = 1,
         EditProfile,
         DeleteAccount,
         ViewAllUsers,
