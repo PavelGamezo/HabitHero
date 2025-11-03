@@ -30,6 +30,7 @@ namespace HabitHero.Infrastructure.Persistence
 
             // Add Repositories:
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IRoleRepository, RoleRepository>();
 
             return services;
         }

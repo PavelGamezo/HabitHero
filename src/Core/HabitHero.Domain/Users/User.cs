@@ -1,6 +1,8 @@
-﻿using HabitHero.Domain.Common;
+﻿using ErrorOr;
+using HabitHero.Domain.Common;
 using HabitHero.Domain.Habits;
 using HabitHero.Domain.Users.Entities;
+using HabitHero.Domain.Users.Errors;
 using HabitHero.Domain.Users.Events;
 using HabitHero.Domain.Users.ValueObjects;
 
@@ -48,5 +50,17 @@ namespace HabitHero.Domain.Users
         private readonly List<Role> _roles = new();
 
         public IReadOnlyCollection<Role> Roles => _roles.AsReadOnly();
+
+        public ErrorOr<Success> AddRole(Role role)
+        {
+            if (_roles.Contains(role))
+            {
+                return UserDomainErrors.RoleExistError;
+            }
+
+            _roles.Add(role);
+
+            return Result.Success;
+        }
     }
 }

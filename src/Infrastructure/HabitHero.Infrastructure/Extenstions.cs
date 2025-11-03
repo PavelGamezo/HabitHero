@@ -1,9 +1,12 @@
-﻿using HabitHero.Application.Common.Authentication;
-using HabitHero.Application.Common.Services;
-using HabitHero.Infrastructure.Authentication;
+﻿using HabitHero.Application.Common.Services;
+using HabitHero.Application.Common.Services.Authentication;
+using HabitHero.Application.Common.Services.Authorization;
+using HabitHero.Domain.Users.Enums;
 using HabitHero.Infrastructure.Common.Options;
 using HabitHero.Infrastructure.Persistence;
 using HabitHero.Infrastructure.Services;
+using HabitHero.Infrastructure.Services.Authentication;
+using HabitHero.Infrastructure.Services.Authorization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -24,8 +27,10 @@ namespace HabitHero.Infrastructure
 
             // Add Services:
             services.AddScoped<IPasswordHasher, PasswordHasher>();
+            services.AddScoped<IUserPermissionService, UserPermissionService>();
 
             services.AddJwtAuthentication(configuration);
+            services.AddCustomClaimsAuthorization();
 
             return services;
         }
@@ -58,6 +63,20 @@ namespace HabitHero.Infrastructure
                 });
 
             services.AddAuthentication();
+
+            return services;
+        }
+
+        public static IServiceCollection AddCustomClaimsAuthorization(this IServiceCollection services)
+        {
+            services.AddAuthorization(options =>
+            {
+                foreach (var permission in Enum.GetNames(typeof(PermissionsEnum)))
+                {
+                    options.AddPolicy(permission, policy =>
+                        policy.RequireClaim(CustomClaims.Permission, permission));
+                }
+            });
 
             return services;
         }

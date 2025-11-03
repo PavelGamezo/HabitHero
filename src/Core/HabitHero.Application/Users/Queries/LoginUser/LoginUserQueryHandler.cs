@@ -1,8 +1,8 @@
 ﻿using ErrorOr;
-using HabitHero.Application.Common.Authentication;
 using HabitHero.Application.Common.CQRS.Queries;
 using HabitHero.Application.Common.Persistence;
 using HabitHero.Application.Common.Services;
+using HabitHero.Application.Common.Services.Authentication;
 
 namespace HabitHero.Application.Users.Queries.LoginUser
 {
@@ -36,7 +36,7 @@ namespace HabitHero.Application.Users.Queries.LoginUser
                 return Common.Errors.UserApplicationErrors.InvalidUserPasswordError;
             }
 
-            var token = _jwtTokenGenerator.GenerateToken(user.Id, user.Username, user.Email);
+            var token = await _jwtTokenGenerator.GenerateToken(user.Id, user.Username, user.Email);
 
             return token;
         }

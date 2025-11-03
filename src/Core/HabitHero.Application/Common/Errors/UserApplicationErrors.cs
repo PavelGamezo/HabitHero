@@ -15,5 +15,9 @@ namespace HabitHero.Application.Common.Errors
         public static Error InvalidUserPasswordError = Error.Conflict(
             code: "Application.Common.Errors",
             description: "Incorrect password or email.");
+
+        public static Error NotFoundRoleError = Error.NotFound(
+            code: "Application.Common.Errors",
+            description: "Role is not exist.");
     }
 }

@@ -23,5 +23,9 @@ namespace HabitHero.Domain.Users.Errors
         public static Error IncorrectEmailValueError = Error.Validation(
             code: "Domain.Users.Errors",
             description: "Email can't be null or empty");
+
+        public static Error RoleExistError = Error.Conflict(
+            code: "Domain.Users.Errors",
+            description: "User already has the same role");
     }
 }
