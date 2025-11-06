@@ -18,9 +18,13 @@ namespace HabitHero.Application
                 configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
             });
 
-            services.AddSingleton(
+            services.AddScoped(
                 typeof(IPipelineBehavior<,>),
                 typeof(ValidationBehavior<,>));
+
+            services.AddScoped(
+                typeof(IPipelineBehavior<,>),
+                typeof(LogginBehavior<,>));
 
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 

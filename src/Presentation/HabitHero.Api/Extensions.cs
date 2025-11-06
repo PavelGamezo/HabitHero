@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.OpenApi;
 using Microsoft.OpenApi.Models;
+using Serilog;
 
 namespace HabitHero.Api
 {
@@ -16,6 +17,16 @@ namespace HabitHero.Api
             });
 
             return services;
+        }
+
+        public static WebApplicationBuilder AddSerilog(this WebApplicationBuilder builder)
+        {
+            builder.Host.UseSerilog((context, configuration) =>
+            {
+                configuration.ReadFrom.Configuration(context.Configuration);
+            });
+
+            return builder;
         }
 
         internal sealed class BearerSecuritySchemeTransformer(

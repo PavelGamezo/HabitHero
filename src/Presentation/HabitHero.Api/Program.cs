@@ -2,11 +2,12 @@ using HabitHero.Api;
 using HabitHero.Application;
 using HabitHero.Infrastructure;
 using Scalar.AspNetCore;
-using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.AddSerilog();
 
 builder.Services
     .AddPresentation()
