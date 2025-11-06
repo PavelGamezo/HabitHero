@@ -47,7 +47,7 @@ namespace HabitHero.Api.Users
                 errors => Problem(errors));
         }
 
-        [HasPermission(PermissionsEnum.ResetUserProgress)]
+        [HasPermission(PermissionsEnum.ViewProfile)]
         [HttpGet]
         [Route("Test")]
         public IActionResult GetTest()

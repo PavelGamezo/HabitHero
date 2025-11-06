@@ -55,9 +55,6 @@ namespace HabitHero.Application.Users.Commands.RegisterUser
             _userRepository.AddUser(user);
             await _userRepository.SaveAsync(cancellationToken);
 
-            // Generate JWT token
-            var token = _jwtTokenGenerator.GenerateToken(user.Id, user.Username, user.Email);
-
             return Result.Success;
         }
     }
