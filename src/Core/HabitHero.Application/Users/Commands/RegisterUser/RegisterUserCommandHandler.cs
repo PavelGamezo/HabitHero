@@ -12,7 +12,6 @@ namespace HabitHero.Application.Users.Commands.RegisterUser
     {
         private readonly IUserRepository _userRepository; 
         private readonly IRoleRepository _roleRepository;
-        private readonly IJwtTokenGenerator _jwtTokenGenerator;
         private readonly IUserFactory _userFactory;
 
         public RegisterUserCommandHandler(IUserRepository userRepository,
@@ -22,7 +21,6 @@ namespace HabitHero.Application.Users.Commands.RegisterUser
         {
             _userRepository = userRepository;
             _roleRepository = roleRepository;
-            _jwtTokenGenerator = jwtTokenGenerator;
             _userFactory = userFactory;
         }
 

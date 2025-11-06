@@ -1,5 +1,8 @@
-﻿using HabitHero.Application.Common.Factories;
+﻿using FluentValidation;
+using HabitHero.Application.Common.Behaviors;
+using HabitHero.Application.Common.Factories;
 using HabitHero.Domain.Common.Factory;
+using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
@@ -14,6 +17,12 @@ namespace HabitHero.Application
             {
                 configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
             });
+
+            services.AddSingleton(
+                typeof(IPipelineBehavior<,>),
+                typeof(ValidationBehavior<,>));
+
+            services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
             return services;
         }
