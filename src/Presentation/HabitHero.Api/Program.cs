@@ -1,4 +1,5 @@
 using HabitHero.Api;
+using HabitHero.Api.Common.Middlewares;
 using HabitHero.Application;
 using HabitHero.Infrastructure;
 using Scalar.AspNetCore;
@@ -26,6 +27,8 @@ if (app.Environment.IsDevelopment())
         options.DarkMode = true;
     });
 }
+
+app.UseMiddleware<GlobalExceptionHandler>();
 
 app.UseHttpsRedirection();
 

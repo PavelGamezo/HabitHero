@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authentication;
+﻿using HabitHero.Api.Common.Middlewares;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.OpenApi;
 using Microsoft.OpenApi.Models;
 using Serilog;
@@ -15,6 +16,15 @@ namespace HabitHero.Api
             {
                 options.AddDocumentTransformer<BearerSecuritySchemeTransformer>();
             });
+
+            services.AddMiddlewares();
+
+            return services;
+        }
+
+        public static IServiceCollection AddMiddlewares(this IServiceCollection services)
+        {
+            services.AddTransient<GlobalExceptionHandler>();
 
             return services;
         }
