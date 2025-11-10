@@ -1,4 +1,5 @@
 ﻿using HabitHero.Domain.Common;
+using HabitHero.Domain.Habits.Enums;
 using HabitHero.Domain.Users;
 
 namespace HabitHero.Domain.Habits
@@ -9,6 +10,16 @@ namespace HabitHero.Domain.Habits
         {
         }
 
-        public User User { get; set; }
+        public string Title { get; private set; }
+
+        public string? Description { get; private set; }
+
+        public DateTime? StartDate { get; private set; }
+
+        public Frequency Frequency { get; private set; }
+
+        public bool IsArchived { get; private set; }
+
+        public User? User { get; private set; }
     }
 }

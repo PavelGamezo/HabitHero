@@ -2,14 +2,16 @@
 using HabitHero.Api.Common.Errors;
 using HabitHero.Api.Users.DTOs;
 using HabitHero.Application.Users.Commands.RegisterUser;
+using HabitHero.Application.Users.Queries.GetProfile;
 using HabitHero.Application.Users.Queries.LoginUser;
 using HabitHero.Domain.Users.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace HabitHero.Api.Users
 {
-    [Route("api/[controller]")]
+    [Route("api/auth")]
     [ApiController]
     public class UserController : ApiController
     {
@@ -49,10 +51,21 @@ namespace HabitHero.Api.Users
 
         [HasPermission(PermissionsEnum.ViewProfile)]
         [HttpGet]
-        [Route("Test")]
-        public IActionResult GetTest()
+        [Route("me")]
+        public async Task<IActionResult> GetProfile()
         {
-            return Ok();
+            Guid.TryParse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value, out var userId);
+            
+            if (userId == Guid.Empty)
+            {
+                return Unauthorized();
+            }
+
+            var result = await _sender.Send(new GetUserProfileQuery(userId));
+
+            return result.Match(
+                success => Ok(result.Value),
+                errors => Problem(errors));
         }
     }
 }
