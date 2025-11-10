@@ -4,7 +4,6 @@ using HabitHero.Application.Common.DTOs;
 using HabitHero.Application.Common.DTOs.Configurations;
 using HabitHero.Application.Common.Errors;
 using HabitHero.Application.Common.Persistence;
-using HabitHero.Application.Common.Services;
 using HabitHero.Application.Users.Queries.GetProfile;
 
 namespace HabitHero.Application.Users.Queries.GetUserProfile
@@ -17,7 +16,7 @@ namespace HabitHero.Application.Users.Queries.GetUserProfile
         {
             var userId = request.UserId;
 
-            var user = await userRepository.GetUserByIdAsync(userId, cancellationToken);
+            var user = await userRepository.GetUserByIdWithNoTrackingAsync(userId, cancellationToken);
             if (user is null)
             {
                 return UserApplicationErrors.NotFoundUserError;

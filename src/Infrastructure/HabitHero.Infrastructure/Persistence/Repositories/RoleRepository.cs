@@ -16,7 +16,9 @@ namespace HabitHero.Infrastructure.Persistence.Repositories
 
         public async Task<Role?> GetRoleById(int roleId, CancellationToken cancellationToken)
         {
-            return await _context.Roles.FirstOrDefaultAsync(role => role.Id == roleId, cancellationToken);
+            return await _context.Roles
+                .AsNoTracking()
+                .FirstOrDefaultAsync(role => role.Id == roleId, cancellationToken);
         }
     }
 }

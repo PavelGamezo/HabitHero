@@ -20,4 +20,8 @@
     <ProjectReference Include="..\..\Infrastructure\HabitHero.Infrastructure\HabitHero.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Habits\" />
+  </ItemGroup>
+
 </Project>
