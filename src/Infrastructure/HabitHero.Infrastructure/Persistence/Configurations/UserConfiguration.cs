@@ -43,9 +43,6 @@ namespace HabitHero.Infrastructure.Persistence.Configurations
             builder.Property(user => user.StreakCount)
                 .HasConversion(streakCount);
 
-            builder.HasMany(user => user.Habits)
-                .WithOne(habit => habit.User);
-
             builder.HasMany(user => user.Roles)
                 .WithMany(role => role.Users)
                 .UsingEntity<UserRole>(

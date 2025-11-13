@@ -27,5 +27,17 @@ namespace HabitHero.Domain.Users.Errors
         public static Error RoleExistError = Error.Conflict(
             code: "Domain.Users.Errors",
             description: "User already has the same role");
+
+        public static Error NullRoleError = Error.Conflict(
+            code: "Domain.Users.Errors",
+            description: "User role is null");
+
+        public static Error HabitExistError = Error.Validation(
+            code: "Domain.Users.Errors",
+            description: "User already has the same habit");
+
+        public static Error NullHabitError = Error.Validation(
+            code: "Domain.Users.Errors",
+            description: "Habit is null");
     }
 }

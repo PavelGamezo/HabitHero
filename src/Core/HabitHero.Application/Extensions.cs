@@ -14,11 +14,13 @@ namespace HabitHero.Application
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddScoped<IUserFactory, UserFactory>();
+            services.AddScoped<IHabitFactory, HabitFactory>();
+
             services.AddMediatR(configuration =>
             {
                 configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
             });
-            services.AddMapster();
+            //services.AddMapster();
 
             services.AddScoped(
                 typeof(IPipelineBehavior<,>),

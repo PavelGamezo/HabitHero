@@ -34,6 +34,13 @@ namespace HabitHero.Infrastructure.Persistence.Repositories
         {
             return _dbContext.Users
                 .Include(user => user.Roles)
+                .FirstOrDefaultAsync(user => user.Id == id, cancellationToken);
+        }
+
+        public Task<User?> GetUserWithHabitsByIdAsync(Guid id, CancellationToken cancellationToken)
+        {
+            return _dbContext.Users
+                .Include(user => user.Habits)
                 .AsNoTracking()
                 .FirstOrDefaultAsync(user => user.Id == id, cancellationToken);
         }

@@ -6,8 +6,17 @@ namespace HabitHero.Domain.Habits
 {
     public class Habit : AggregateRoot<Guid>
     {
-        public Habit(Guid id) : base(id)
+        public Habit(
+            Guid id,
+            string title,
+            string description,
+            Frequency frequency) : base(id)
         {
+            Title = title;
+            Description = description;
+            Frequency = frequency;
+            StartDate = DateTime.UtcNow;
+            IsArchived = false;
         }
 
         public string Title { get; private set; }

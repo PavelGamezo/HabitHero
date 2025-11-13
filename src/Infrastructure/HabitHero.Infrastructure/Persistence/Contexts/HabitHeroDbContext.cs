@@ -25,11 +25,13 @@ namespace HabitHero.Infrastructure.Persistence.Contexts
             var roleConfiguration = new RoleConfiguration();
             var rolePermissionConfiguration = new RolePermissionConfiguration(authorizationOptions.Value);
             var permissionConfiguration = new PermissionConfiguration();
+            var habitConfiguration = new HabitConfiguration();
 
             modelBuilder.ApplyConfiguration(userConfiguration);
             modelBuilder.ApplyConfiguration(roleConfiguration);
             modelBuilder.ApplyConfiguration(rolePermissionConfiguration);
             modelBuilder.ApplyConfiguration(permissionConfiguration);
+            modelBuilder.ApplyConfiguration(habitConfiguration);
 
             base.OnModelCreating(modelBuilder);
         }

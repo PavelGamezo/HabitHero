@@ -8,6 +8,8 @@ namespace HabitHero.Application.Common.Persistence
 
         Task<User?> GetUserByIdAsync(Guid id, CancellationToken cancellationToken);
 
+        Task<User?> GetUserWithHabitsByIdAsync(Guid id, CancellationToken cancellationToken);
+
         Task<User?> GetUserByIdWithNoTrackingAsync(Guid id, CancellationToken cancellationToken);
 
         Task<bool> IsUserExistAsync(string email, string username, CancellationToken cancellationToken);

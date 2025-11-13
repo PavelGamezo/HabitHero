@@ -53,6 +53,11 @@ namespace HabitHero.Domain.Users
 
         public ErrorOr<Success> AddRole(Role role)
         {
+            if (role is null)
+            {
+                return UserDomainErrors.NullRoleError;
+            }
+
             if (_roles.Contains(role))
             {
                 return UserDomainErrors.RoleExistError;
@@ -63,6 +68,21 @@ namespace HabitHero.Domain.Users
             return Result.Success;
         }
 
+        public ErrorOr<Success> AddHabit(Habit habit)
+        {
+            if (habit is null)
+            {
+                return UserDomainErrors.NullHabitError;
+            }
 
+            if (_habits.Contains(habit))
+            {
+                return UserDomainErrors.HabitExistError;
+            }
+
+            _habits.Add(habit);
+
+            return Result.Success;
+        }
     }
 }
