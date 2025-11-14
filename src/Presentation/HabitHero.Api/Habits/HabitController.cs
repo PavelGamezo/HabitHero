@@ -4,6 +4,7 @@ using HabitHero.Api.Habits.DTOs;
 using HabitHero.Application.Habits.Commands.CompleteHabit;
 using HabitHero.Application.Habits.Commands.CreateHabit;
 using HabitHero.Application.Habits.Commands.DeleteHabit;
+using HabitHero.Application.Habits.Commands.UpdateHabit;
 using HabitHero.Application.Habits.Queries.GetUserHabits;
 using HabitHero.Domain.Users.Enums;
 using MediatR;
@@ -97,6 +98,31 @@ namespace HabitHero.Api.Habits
             }
 
             var result = await _sender.Send(new DeleteHabitCommand(id, userId));
+
+            return result.Match(
+                success => Ok(),
+                errors => Problem(errors));
+        }
+
+        [HasPermission(PermissionsEnum.UpdateHabit)]
+        [HttpPut]
+        [Route("{id}")]
+        public async Task<IActionResult> UpdateHabit(
+            [FromRoute] Guid id,
+            [FromForm] UpdateHabitRequest request)
+        {
+            Guid.TryParse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value, out Guid userId);
+
+            if (userId == Guid.Empty)
+            {
+                return Unauthorized();
+            }
+
+            var result = await _sender.Send(new UpdateHabitCommand(
+                id,
+                request.Title,
+                request.Description,
+                userId));
 
             return result.Match(
                 success => Ok(),

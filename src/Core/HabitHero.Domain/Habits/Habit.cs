@@ -55,5 +55,21 @@ namespace HabitHero.Domain.Habits
 
             return Result.Success;
         }
+
+        public ErrorOr<Updated> ChangeInfo(string title, string description)
+        {
+            if (title.Length > 100)
+            {
+                return HabitDomainErrors.InvalidTitleValueError;
+            }
+
+            if (description.Length > 1000)
+            {
+                return HabitDomainErrors.InvalidDescriptionValueError;
+            }
+
+            Title = title;
+            Description = description;
+        }
     }
 }
