@@ -21,7 +21,7 @@ namespace HabitHero.Application.Habits.Queries.GetUserHabits
         {
             var userId = request.UserId;
 
-            var user = await _userRepository.GetUserWithHabitsByIdAsync(userId, cancellationToken);
+            var user = await _userRepository.GetUserWithHabitsByIdWithNoTrackingAsync(userId, cancellationToken);
 
             if (user is null)
             {

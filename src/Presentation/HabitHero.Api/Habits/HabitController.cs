@@ -1,13 +1,12 @@
 ﻿using HabitHero.Api.Common.Attributes;
 using HabitHero.Api.Common.Errors;
 using HabitHero.Api.Habits.DTOs;
+using HabitHero.Application.Habits.Commands.CompleteHabit;
 using HabitHero.Application.Habits.Commands.CreateHabit;
-using HabitHero.Application.Habits.Queries;
+using HabitHero.Application.Habits.Commands.DeleteHabit;
 using HabitHero.Application.Habits.Queries.GetUserHabits;
-using HabitHero.Domain.Users.Entities;
 using HabitHero.Domain.Users.Enums;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
@@ -61,6 +60,46 @@ namespace HabitHero.Api.Habits
 
             return result.Match(
                 habits => Ok(habits),
+                errors => Problem(errors));
+        }
+
+        [HasPermission(PermissionsEnum.CompleteHabit)]
+        [HttpPatch]
+        [Route("{id}/complete")]
+        public async Task<IActionResult> CompleteHabit(
+            [FromRoute] Guid id)
+        {
+            Guid.TryParse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value, out Guid userId);
+
+            if (userId == Guid.Empty)
+            {
+                return Unauthorized();
+            }
+
+            var result = await _sender.Send(new CompleteHabitCommand(id, userId));
+
+            return result.Match(
+                success => Ok(),
+                errors => Problem(errors));
+        }
+
+        [HasPermission(PermissionsEnum.DeleteHabit)]
+        [HttpDelete]
+        [Route("{id}/delete")]
+        public async Task<IActionResult> DeleteHabit(
+            [FromRoute] Guid id)
+        {
+            Guid.TryParse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value, out Guid userId);
+
+            if (userId == Guid.Empty)
+            {
+                return Unauthorized();
+            }
+
+            var result = await _sender.Send(new DeleteHabitCommand(id, userId));
+
+            return result.Match(
+                success => Ok(),
                 errors => Problem(errors));
         }
     }

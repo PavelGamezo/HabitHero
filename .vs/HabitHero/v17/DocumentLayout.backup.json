@@ -3,40 +3,155 @@
   "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\habits\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habits\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\habits\\habitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\habits\\habitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\factories\\habitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\factories\\habitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\deletehabit\\deletehabitcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\configurations\\habitmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\dtos\\configurations\\habitmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\common\\errors\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\common\\errors\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\habits\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habits\\habit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\contexts\\habitherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\contexts\\habitherodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\queries\\getuserprofile\\getuserprofilequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\queries\\getuserprofile\\getuserprofilequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\habits\\errors\\habitdomainerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habits\\errors\\habitdomainerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\habitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\habitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\valueobjects\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\createhabit\\createhabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\createhabit\\createhabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\errors\\habitapplicationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\errors\\habitapplicationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\completehabit\\completehabitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251114124119_addcompletepropsforhabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251114124119_addcompletepropsforhabit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\habitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\habitconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\rolepermissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\configurations\\habitmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\dtos\\configurations\\habitmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\factories\\habitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\factories\\habitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\dtos\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\permissionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\common\\options\\authorizationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,56 +166,16 @@
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\habits\\habitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\habits\\habitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\persistence\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\configurations\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\dtos\\configurations\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\dtos\\habitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\queries\\getuserprofile\\getuserprofilequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\queries\\getuserprofile\\getuserprofilequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\createhabit\\createhabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\commands\\createhabit\\createhabitcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\habitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\habitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\habits\\queries\\getuserhabits\\getuserhabitsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,10 +184,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\habits\\commands\\createhabit\\createhabitcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +200,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\queries\\loginuser\\loginuserqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\extenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -155,40 +222,28 @@
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\factory\\ihabitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\errors\\habitapplicationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\errors\\habitapplicationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\habits\\dtos\\createhabitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\habits\\dtos\\createhabitrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251113072100_reconfiguratehabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251113072100_reconfiguratehabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251108175409_createhabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251108175409_createhabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\users\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\habithero.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\habithero.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -199,12 +254,16 @@
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\errors\\userapplicationerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\factory\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\factory\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\habithero.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\habithero.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\persistence\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\factory\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\factory\\iuserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\dtos\\getuserprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,16 +294,12 @@
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habithero.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\habits\\enums\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habits\\enums\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\common\\errors\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\common\\errors\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\habits\\enums\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\habits\\enums\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\services\\authorization\\userpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -263,16 +318,12 @@
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\streakcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\valueobjects\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\valueobjects\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -287,12 +338,12 @@
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\persistence\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\services\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\services\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\services\\authorization\\iuserpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\services\\authorization\\iuserpermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.application\\common\\services\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\services\\authentication\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\services\\authorization\\customclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -305,14 +356,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\enums\\permissionsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\users\\enums\\permissionsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\users\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -375,12 +418,12 @@
       "RelativeMoniker": "D:0:0:{ABF2F029-830F-48E4-AB6D-E3695259D04D}|src\\Core\\HabitHero.Application\\HabitHero.Application.csproj|solutionrelative:src\\core\\habithero.application\\common\\cqrs\\queries\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251020111740_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251020111740_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|solutionrelative:src\\presentation\\habithero.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E90EB16-6E79-4056-8093-10DEA77FA90C}|src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\presentation\\habithero.api\\habithero.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -389,17 +432,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\core\\habithero.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E02ACF7-D4BE-40A5-9485-CB5E1A096857}|src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj|solutionrelative:src\\core\\habithero.domain\\common\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251020111740_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251020111740_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\pet-projects\\habithero\\habithero\\src\\infrastructure\\habithero.infrastructure\\migrations\\20251113072100_reconfiguratehabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A968DA-6955-406A-B662-9643BDE640C5}|src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj|solutionrelative:src\\infrastructure\\habithero.infrastructure\\migrations\\20251113072100_reconfiguratehabitentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -409,24 +441,412 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteHabitCommandHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:02:48.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteHabitCommandValidator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandValidator.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandValidator.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T18:01:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteHabitCommand.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommand.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommand.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\DeleteHabit\\DeleteHabitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:59:26.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Habit.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA0wDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:57:08.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HabitController.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
+              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:29:00.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\User.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAnwGMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:51:13.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\appsettings.json",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\appsettings.json",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T15:16:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompleteHabitCommandHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:54:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompleteHabitCommandValidator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandValidator.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandValidator.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:52:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolePermissionConfiguration.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:24:34.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
+              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:39:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T07:50:39.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
+              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:11:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginUserQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:24:34.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HabitHeroDbContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAywB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:34:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetUserProfileQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:30:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:21:24.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T16:16:54.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HabitRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:35:50.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HabitDomainErrors.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Errors\\HabitDomainErrors.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Habits\\Errors\\HabitDomainErrors.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Errors\\HabitDomainErrors.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Habits\\Errors\\HabitDomainErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:28:41.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetUserHabitsQueryHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:32:05.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateHabitCommandHandler.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:40:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:15:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HabitApplicationErrors.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:53:05.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CompleteHabitCommand.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommand.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommand.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CompleteHabit\\CompleteHabitCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:51:30.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251114124119_AddCompletePropsForHabit.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251114124119_AddCompletePropsForHabit.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251114124119_AddCompletePropsForHabit.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251114124119_AddCompletePropsForHabit.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251114124119_AddCompletePropsForHabit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:41:19.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HabitConfiguration.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:32:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:40:41.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Extenstions.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:11:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HabitMapping.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:38:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HabitFactory.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:51:26.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HabitDto.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
+              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:37:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "PermissionConfiguration.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\PermissionConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\PermissionConfiguration.cs",
@@ -434,103 +854,11 @@
               "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\PermissionConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T17:10:56.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T17:10:56.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HabitConfiguration.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\HabitConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:32:28.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetUserHabitsQueryHandler.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:32:05.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HabitMapping.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\HabitMapping.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:38:53.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Habit.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Habits\\Habit.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T16:57:08.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HabitFactory.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Factories\\HabitFactory.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T12:51:26.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HabitHeroDbContext.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Contexts\\HabitHeroDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIA/wCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:34:06.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RolePermissionConfiguration.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RolePermissionConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:24:34.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 38,
               "Title": "AuthorizationOptions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\AuthorizationOptions.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\AuthorizationOptions.cs",
@@ -538,12 +866,11 @@
               "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\AuthorizationOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T17:08:06.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T17:08:06.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 39,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
@@ -551,12 +878,11 @@
               "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\RoleConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T09:13:26.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T09:13:26.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 40,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
@@ -564,25 +890,11 @@
               "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAMwDIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:45:03.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T09:45:03.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HabitController.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
-              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
-              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Habits\\HabitController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:29:00.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "GetUserHabitsQueryValidator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryValidator.cs",
@@ -590,64 +902,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQueryValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:31:01.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:31:01.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:15:52.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginUserQueryHandler.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAWwBsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:24:34.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
-              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
-              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Users\\UserController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAD4vy4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:11:05.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\appsettings.json",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\appsettings.json",
-              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\appsettings.json",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-19T15:16:31.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 42,
               "Title": "UserMapping.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\UserMapping.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\UserMapping.cs",
@@ -655,12 +914,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\DTOs\\Configurations\\UserMapping.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T09:59:28.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T09:59:28.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 43,
               "Title": "GetUserHabitsQuery.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQuery.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQuery.cs",
@@ -668,64 +926,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Queries\\GetUserHabits\\GetUserHabitsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:29:23.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T08:29:23.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HabitDto.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\DTOs\\HabitDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:37:19.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetUserProfileQueryHandler.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T10:30:39.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateHabitCommandHandler.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandHandler.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwDIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:40:56.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HabitRepository.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\HabitRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAtwCMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:35:50.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 44,
               "Title": "AggregateRoot.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\AggregateRoot.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\AggregateRoot.cs",
@@ -733,12 +938,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Common\\AggregateRoot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:38:51.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T15:38:51.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\Entity.cs",
@@ -746,38 +950,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Common\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:39:21.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T15:39:21.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\User.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\User.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\User.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Users\\User.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T16:51:13.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Extensions.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:40:41.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "CreateHabitCommandValidator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandValidator.cs",
@@ -785,12 +962,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:45:45.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:45:45.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "CreateHabitCommand.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommand.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommand.cs",
@@ -798,12 +974,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Habits\\Commands\\CreateHabit\\CreateHabitCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:44:45.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:44:45.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "LoginUserQuery.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQuery.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQuery.cs",
@@ -811,12 +986,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:48:51.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T10:48:51.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "LoginUserQueryValidator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryValidator.cs",
@@ -824,25 +998,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Queries\\LoginUser\\LoginUserQueryValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:51:15.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T12:51:15.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Extenstions.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
-              "RelativeToolTip": "src\\Infrastructure\\HabitHero.Infrastructure\\Extenstions.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:11:40.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 50,
               "Title": "Extensions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Extensions.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Extensions.cs",
@@ -850,12 +1010,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:30:57.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T08:30:57.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 51,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Program.cs",
@@ -863,12 +1022,11 @@
               "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAMwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:10:04.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T15:10:04.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "IHabitRepository.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IHabitRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IHabitRepository.cs",
@@ -876,12 +1034,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IHabitRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:36:52.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T06:36:52.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "UserDomainErrors.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Errors\\UserDomainErrors.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Errors\\UserDomainErrors.cs",
@@ -889,12 +1046,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Users\\Errors\\UserDomainErrors.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:25:38.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T09:25:38.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "IHabitFactory.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\Factory\\IHabitFactory.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\Factory\\IHabitFactory.cs",
@@ -902,25 +1058,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Common\\Factory\\IHabitFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:29:08.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T17:29:08.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "HabitApplicationErrors.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Application\\Common\\Errors\\HabitApplicationErrors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T12:53:05.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 55,
               "Title": "RegisterUserCommandValidator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
@@ -928,12 +1070,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T12:11:03.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T12:11:03.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "RegisterUserCommandHandler.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
@@ -941,12 +1082,11 @@
               "RelativeToolTip": "src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommandHandler.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T19:12:08.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T19:12:08.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 57,
               "Title": "CreateHabitRequest.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Habits\\DTOs\\CreateHabitRequest.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Habits\\DTOs\\CreateHabitRequest.cs",
@@ -954,12 +1094,11 @@
               "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Habits\\DTOs\\CreateHabitRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:33:27.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:33:27.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 18,
               "Title": "20251113065643_ReconfigurateHabitEntity.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113065643_ReconfigurateHabitEntity.cs",
@@ -971,7 +1110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 17,
               "Title": "20251113070110_ReconfigurateHabitEntity.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113070110_ReconfigurateHabitEntity.cs",
@@ -983,7 +1122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 58,
               "Title": "20251113072100_ReconfigurateHabitEntity.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113072100_ReconfigurateHabitEntity.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251113072100_ReconfigurateHabitEntity.cs",
@@ -995,7 +1134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "20251108175409_CreateHabitEntity.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251108175409_CreateHabitEntity.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251108175409_CreateHabitEntity.cs",
@@ -1007,7 +1146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "RegisterUserCommand.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Commands\\RegisterUser\\RegisterUserCommand.cs",
@@ -1019,7 +1158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 61,
               "Title": "UserFactory.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Factories\\UserFactory.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Factories\\UserFactory.cs",
@@ -1031,7 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 62,
               "Title": "UserApplicationErrors.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Errors\\UserApplicationErrors.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Errors\\UserApplicationErrors.cs",
@@ -1043,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 63,
               "Title": "HabitHero.Infrastructure.csproj",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\HabitHero.Infrastructure.csproj",
@@ -1055,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 64,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\RoleRepository.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Persistence\\Repositories\\RoleRepository.cs",
@@ -1067,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 65,
               "Title": "IUserFactory.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\Factory\\IUserFactory.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\Factory\\IUserFactory.cs",
@@ -1079,7 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 66,
               "Title": "GetUserProfileDto.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\GetUserProfileDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\GetUserProfileDto.cs",
@@ -1091,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 67,
               "Title": "GetUserProfileQueryValidator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryValidator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQueryValidator.cs",
@@ -1103,7 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 68,
               "Title": "GetUserProfileQuery.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Users\\Queries\\GetUserProfile\\GetUserProfileQuery.cs",
@@ -1115,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 69,
               "Title": "GetUserDto.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\DTOs\\GetUserDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\DTOs\\GetUserDto.cs",
@@ -1127,7 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 70,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Services\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Services\\PasswordHasher.cs",
@@ -1139,7 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 71,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authentication\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authentication\\JwtTokenGenerator.cs",
@@ -1151,7 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 72,
               "Title": "HabitHero.Domain.csproj",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\HabitHero.Domain.csproj",
@@ -1163,19 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
-              "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
-              "RelativeToolTip": "src\\Presentation\\HabitHero.Api\\Common\\Errors\\ApiController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T15:39:17.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 73,
               "Title": "Extensions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Extensions.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Extensions.cs",
@@ -1187,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 74,
               "Title": "Frequency.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Habits\\Enums\\Frequency.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Habits\\Enums\\Frequency.cs",
@@ -1199,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 75,
               "Title": "UserPermissionService.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authorization\\UserPermissionService.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authorization\\UserPermissionService.cs",
@@ -1211,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 76,
               "Title": "RegisterUserRequest.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\DTOs\\RegisterUserRequest.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Users\\DTOs\\RegisterUserRequest.cs",
@@ -1223,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 77,
               "Title": "UserCreatedDomainEvent.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
@@ -1235,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 78,
               "Title": "StreakCount.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\StreakCount.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\StreakCount.cs",
@@ -1247,19 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Experience.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIAwwBwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T09:21:24.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 79,
               "Title": "Email.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Email.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Email.cs",
@@ -1271,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 80,
               "Title": "Level.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Level.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\ValueObjects\\Level.cs",
@@ -1283,7 +1398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 81,
               "Title": "Permission.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Entities\\Permission.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Entities\\Permission.cs",
@@ -1295,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 82,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Entities\\Role.cs",
@@ -1307,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 83,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Persistence\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Persistence\\IRoleRepository.cs",
@@ -1319,7 +1434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 84,
               "Title": "IUserPermissionService.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Services\\Authorization\\IUserPermissionService.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Services\\Authorization\\IUserPermissionService.cs",
@@ -1331,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 85,
               "Title": "IJwtTokenGenerator.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Services\\Authentication\\IJwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Services\\Authentication\\IJwtTokenGenerator.cs",
@@ -1343,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 86,
               "Title": "CustomClaims.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authorization\\CustomClaims.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Services\\Authorization\\CustomClaims.cs",
@@ -1355,7 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 87,
               "Title": "20251103082515_AddUserRoleWithPermissions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103082515_AddUserRoleWithPermissions.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103082515_AddUserRoleWithPermissions.cs",
@@ -1367,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 88,
               "Title": "PermissionsEnum.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Enums\\PermissionsEnum.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Enums\\PermissionsEnum.cs",
@@ -1379,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 19,
               "Title": "20251103080606_AddUserRoleWithPermissions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103080606_AddUserRoleWithPermissions.cs",
@@ -1390,7 +1505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 20,
               "Title": "20251103081703_AddUserRoleWithPermissions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251103081703_AddUserRoleWithPermissions.cs",
@@ -1401,7 +1516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 89,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Entities\\UserRole.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Entities\\UserRole.cs",
@@ -1413,7 +1528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 90,
               "Title": "RolesEnum.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Enums\\RolesEnum.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Enums\\RolesEnum.cs",
@@ -1425,7 +1540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 91,
               "Title": "HasPermissionAttribute.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Common\\Attributes\\HasPermissionAttribute.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Common\\Attributes\\HasPermissionAttribute.cs",
@@ -1437,7 +1552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 92,
               "Title": "RolePermission.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Users\\Entities\\RolePermission.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Users\\Entities\\RolePermission.cs",
@@ -1449,7 +1564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 93,
               "Title": "LoginUserRequest.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Users\\DTOs\\LoginUserRequest.cs",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Users\\DTOs\\LoginUserRequest.cs",
@@ -1461,7 +1576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 94,
               "Title": "HabitHero.Api.csproj",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj",
@@ -1473,7 +1588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 95,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\CQRS\\Commands\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\CQRS\\Commands\\ICommandHandler.cs",
@@ -1485,7 +1600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 96,
               "Title": "ICommand.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\CQRS\\Commands\\ICommand.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\CQRS\\Commands\\ICommand.cs",
@@ -1497,7 +1612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 97,
               "Title": "JwtOptions.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\JwtOptions.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\JwtOptions.cs",
@@ -1509,7 +1624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 98,
               "Title": "ConnectionString.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\ConnectionString.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Common\\Options\\ConnectionString.cs",
@@ -1521,7 +1636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 99,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\Services\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\Services\\IPasswordHasher.cs",
@@ -1533,7 +1648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 100,
               "Title": "IHasDomainEvents.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\IHasDomainEvents.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\IHasDomainEvents.cs",
@@ -1545,7 +1660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 101,
               "Title": "HabitHero.Application.csproj",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\HabitHero.Application.csproj",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\HabitHero.Application.csproj",
@@ -1557,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 102,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\CQRS\\Queries\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\CQRS\\Queries\\IQueryHandler.cs",
@@ -1569,7 +1684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 103,
               "Title": "IQuery.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Application\\Common\\CQRS\\Queries\\IQuery.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Application\\Common\\CQRS\\Queries\\IQuery.cs",
@@ -1581,7 +1696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 104,
               "Title": "20251020111740_Initial_Migration.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251020111740_Initial_Migration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HabitHero.Infrastructure\\Migrations\\20251020111740_Initial_Migration.cs",
@@ -1593,7 +1708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 105,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\Properties\\launchSettings.json",
@@ -1605,19 +1720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "ValueObject.cs",
-              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
-              "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
-              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
-              "RelativeToolTip": "src\\Core\\HabitHero.Domain\\Common\\ValueObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T16:16:54.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 106,
               "Title": "HabitHero.Api",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj",
               "RelativeDocumentMoniker": "src\\Presentation\\HabitHero.Api\\HabitHero.Api.csproj",
@@ -1628,7 +1731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 107,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\HabitHero\\src\\Core\\HabitHero.Domain\\Common\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\Core\\HabitHero.Domain\\Common\\IDomainEvent.cs",
@@ -1640,7 +1743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Pet-projects\\HabitHero\\src\\Infrastructure\\HabitHero.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "..\\src\\Infrastructure\\HabitHero.Infrastructure\\Class1.cs",

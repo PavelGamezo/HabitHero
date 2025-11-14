@@ -1,6 +1,9 @@
-﻿using HabitHero.Domain.Common;
+﻿using ErrorOr;
+using HabitHero.Domain.Common;
 using HabitHero.Domain.Habits.Enums;
+using HabitHero.Domain.Habits.Errors;
 using HabitHero.Domain.Users;
+using HabitHero.Domain.Users.Errors;
 
 namespace HabitHero.Domain.Habits
 {
@@ -29,6 +32,28 @@ namespace HabitHero.Domain.Habits
 
         public bool IsArchived { get; private set; }
 
+        public DateTime? DateCompleted { get; private set; }
+
+        public bool IsCompleted { get; private set; }
+
         public User? User { get; private set; }
+
+        public ErrorOr<Success> Complete()
+        {
+            if (!DateCompleted.HasValue && IsCompleted == false)
+            {
+                DateCompleted = DateTime.UtcNow;
+                IsCompleted = true;
+
+                return Result.Success;
+            }
+
+            if (IsCompleted)
+            {
+                return HabitDomainErrors.HabitCompletedError;
+            }
+
+            return Result.Success;
+        }
     }
 }

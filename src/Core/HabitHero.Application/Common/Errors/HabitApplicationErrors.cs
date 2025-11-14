@@ -15,5 +15,9 @@ namespace HabitHero.Application.Common.Errors
         public static Error InvalidHabitFrequencyError = Error.Validation(
             code: "Application.Common.Errors",
             description: "Invalid habit frequency value");
+
+        public static Error NotFoundHabitError = Error.NotFound(
+            code: "Application.Common.Errors",
+            description: "Habit is not exist or wasn't found");
     }
 }

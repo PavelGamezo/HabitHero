@@ -9,7 +9,9 @@ using HabitHero.Domain.Users.ValueObjects;
 namespace HabitHero.Domain.Users
 {
     public class User : AggregateRoot<Guid>
-    {   
+    {
+        public const int MaxExperienceValue = 100;
+
         public User(
             Guid id,
             string username,
@@ -75,7 +77,7 @@ namespace HabitHero.Domain.Users
                 return UserDomainErrors.NullHabitError;
             }
 
-            if (_habits.Contains(habit))
+            if(_habits.Any(habitItem => habitItem.Title == habit.Title || habitItem == habit))
             {
                 return UserDomainErrors.HabitExistError;
             }
@@ -83,6 +85,40 @@ namespace HabitHero.Domain.Users
             _habits.Add(habit);
 
             return Result.Success;
+        }
+
+        public ErrorOr<Deleted> DeleteHabit(Guid habitId)
+        {
+            var habit = _habits.FirstOrDefault(habit => habit.Id == habitId);
+            if (habit is null)
+            {
+                return UserDomainErrors.NullHabitError;
+            }
+
+            _habits.Remove(habit);
+
+            return Result.Deleted;
+        }
+
+        public bool IsUserHasHabit(Guid habitId)
+        {
+            if (habitId != Guid.Empty && _habits.Any(habit => habit.Id == habitId))
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        public void ChangeExperience()
+        {
+            if (Experience >= 90)
+            {
+                Experience += 10;
+                Level += 1;
+            }
+
+            Experience += 10;
         }
     }
 }
