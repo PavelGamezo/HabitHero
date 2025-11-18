@@ -2,14 +2,14 @@
 using HabitHero.Domain.Common;
 using HabitHero.Domain.Habits.Enums;
 using HabitHero.Domain.Habits.Errors;
+using HabitHero.Domain.HabitTemplates;
 using HabitHero.Domain.Users;
-using HabitHero.Domain.Users.Errors;
 
 namespace HabitHero.Domain.Habits
 {
     public class Habit : AggregateRoot<Guid>
     {
-        public Habit(
+        internal Habit(
             Guid id,
             string title,
             string description,
@@ -37,6 +37,8 @@ namespace HabitHero.Domain.Habits
         public bool IsCompleted { get; private set; }
 
         public User? User { get; private set; }
+
+        public HabitTemplate? HabitTemplate { get; private set; }
 
         public ErrorOr<Success> Complete()
         {
@@ -70,6 +72,8 @@ namespace HabitHero.Domain.Habits
 
             Title = title;
             Description = description;
+
+            return Result.Updated;
         }
     }
 }

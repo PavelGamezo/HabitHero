@@ -21,4 +21,8 @@
     <ProjectReference Include="..\HabitHero.Domain\HabitHero.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="HabitTemplates\Queries\" />
+  </ItemGroup>
+
 </Project>

@@ -1,4 +1,5 @@
 ﻿using HabitHero.Domain.Habits;
+using HabitHero.Domain.HabitTemplates;
 using HabitHero.Domain.Users;
 using HabitHero.Domain.Users.Entities;
 using HabitHero.Infrastructure.Common.Options;
@@ -19,6 +20,8 @@ namespace HabitHero.Infrastructure.Persistence.Contexts
 
         public DbSet<Habit> Habits { get; set; }
 
+        public DbSet<HabitTemplate> HabitTemplates { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             var userConfiguration = new UserConfiguration();
@@ -26,12 +29,14 @@ namespace HabitHero.Infrastructure.Persistence.Contexts
             var rolePermissionConfiguration = new RolePermissionConfiguration(authorizationOptions.Value);
             var permissionConfiguration = new PermissionConfiguration();
             var habitConfiguration = new HabitConfiguration();
+            var habitTemplateConfiguration = new HabitTemplateConfiguration();
 
             modelBuilder.ApplyConfiguration(userConfiguration);
             modelBuilder.ApplyConfiguration(roleConfiguration);
             modelBuilder.ApplyConfiguration(rolePermissionConfiguration);
             modelBuilder.ApplyConfiguration(permissionConfiguration);
             modelBuilder.ApplyConfiguration(habitConfiguration);
+            modelBuilder.ApplyConfiguration(habitTemplateConfiguration);
 
             base.OnModelCreating(modelBuilder);
         }

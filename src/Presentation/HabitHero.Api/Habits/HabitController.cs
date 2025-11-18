@@ -6,6 +6,7 @@ using HabitHero.Application.Habits.Commands.CreateHabit;
 using HabitHero.Application.Habits.Commands.DeleteHabit;
 using HabitHero.Application.Habits.Commands.UpdateHabit;
 using HabitHero.Application.Habits.Queries.GetUserHabits;
+using HabitHero.Application.HabitTemplates.Commands.CreateHabitTemplate;
 using HabitHero.Domain.Users.Enums;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -86,7 +87,7 @@ namespace HabitHero.Api.Habits
 
         [HasPermission(PermissionsEnum.DeleteHabit)]
         [HttpDelete]
-        [Route("{id}/delete")]
+        [Route("{id}")]
         public async Task<IActionResult> DeleteHabit(
             [FromRoute] Guid id)
         {
@@ -128,5 +129,28 @@ namespace HabitHero.Api.Habits
                 success => Ok(),
                 errors => Problem(errors));
         }
+
+        [HasPermission(PermissionsEnum.ManageTemplateHabits)]
+        [HttpPut]
+        [Route("template")]
+        public async Task<IActionResult> CreateHabitTemplate(
+            [FromBody] CreateHabitTemplateRequest request)
+        {
+            if (Guid.TryParse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value, out Guid userId))
+            {
+                return Unauthorized();
+            }
+
+            var result = await _sender.Send(new CreateHabitTemplateCommand(
+                request.Title,
+                request.Description,
+                request.Frequency,
+                userId));
+
+            return result.Match(
+                success => Ok(),
+                errors => Problem(errors));
+        }
+
     }
 }

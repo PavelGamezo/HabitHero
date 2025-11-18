@@ -18,6 +18,7 @@
         EditHabitCompletions,
         ViewUserStats,
         ResetUserProgress,
-        ViewAllUsersStats
+        ViewAllUsersStats,
+        ManageTemplateHabits
     }
 }

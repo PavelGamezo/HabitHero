@@ -19,5 +19,9 @@ namespace HabitHero.Application.Common.Errors
         public static Error NotFoundHabitError = Error.NotFound(
             code: "Application.Common.Errors",
             description: "Habit is not exist or wasn't found");
+
+        public static Error NoAccessError = Error.Unauthorized(
+            code: "Application.Common.Errors",
+            description: "You have not access permissions");
     }
 }
